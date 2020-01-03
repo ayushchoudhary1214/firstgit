@@ -1,6 +1,6 @@
 class code
 {
 public static void main(String args[]){
-System.out.println("Hello Java webhook");
+System.out.println("Hello Java webhook1");
 }
 }
