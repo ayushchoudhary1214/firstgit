@@ -2,7 +2,7 @@ public class change
 {
 	public static void main(String args[])
 	{
-		System.out.println("Commit changes");
+		System.out.println("Build Automatic");
 	}
 }
 
