@@ -2,7 +2,7 @@ public class change
 {
 	public static void main(String args[])
 	{
-		System.out.println("jenkins build automatically ");
+		System.out.println(" build automatically ");
 	}
 }
 
